@@ -60,6 +60,8 @@ Este repositório contém o código utilizado para análise e tratamento de dado
    - Atualize as listas modulo_comunicacao, educacross e produtos para refletir os produtos específicos do seu ambiente.
    - Modifique os filtros e agrupamentos conforme necessário.
 
+![image](https://github.com/user-attachments/assets/7d2947f8-fdb0-472b-b552-cc7b88a57c92)
+
 
 **Licença**
    - Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
