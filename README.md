@@ -51,15 +51,15 @@ Este repositório contém o código utilizado para análise e tratamento de dado
 4. **Gerar Relatórios: Os arquivos Excel serão salvos no diretório definido em caminho_output, organizados por data e produto.**
 
 5. **Pré-requisitos**
-- Python 3.7+
-- Pacotes Python: pandas, numpy, xlsxwriter, re, glob.
+   - Python 3.7+
+   - Pacotes Python: pandas, numpy, xlsxwriter, re, glob.
 
   
 6. **Personalização**
 
--Atualize as listas modulo_comunicacao, educacross e produtos para refletir os produtos específicos do seu ambiente.
--Modifique os filtros e agrupamentos conforme necessário.
+   - Atualize as listas modulo_comunicacao, educacross e produtos para refletir os produtos específicos do seu ambiente.
+   - Modifique os filtros e agrupamentos conforme necessário.
 
 
 **Licença**
-- Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+   - Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
